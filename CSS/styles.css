@@ -1,0 +1,218 @@
+/***************************TAG SELECTORS***************************/
+body {
+  font-family: 'Spartan', sans-serif;
+  background-color: hsl(0, 0%, 100%);
+}
+
+/***************************CLASS SELECTORS***************************/
+.main-content {
+  position: absolute;
+}
+
+/***************Top Section Styling***************/
+.top-section {
+  position: relative;
+  height: 340px;
+}
+
+.disc {
+  width: 500px;
+  position: absolute;
+  top: 10px;
+  left: 100px;
+}
+
+.rating {
+  width: 40%;
+  display: inline-block;
+  position: absolute;
+  margin: 10px;
+  padding: 20px;
+  margin-left: 700px;
+  height: 270px;
+}
+
+.disc-head {
+  font-size: 50px;
+  color: hsl(300, 43%, 22%);
+}
+
+.disc-body {
+  font-size: 15px;
+  color: hsl(303, 10%, 53%);
+}
+
+.ratingbox1 {
+  height: 35px;
+  width: 450px;
+  margin-top: 40px;
+  position: relative;
+  background-color: hsl(300, 24%, 96%);
+  padding: 10px;
+  border-radius: 7px;
+}
+
+.ratingbox2 {
+  text-align: center;
+  height: 35px;
+  width: 450px;
+  margin: 15px 0 15px 50px;
+  position: relative;
+  background-color: hsl(300, 24%, 96%);
+  padding: 10px;
+  border-radius: 7px;
+}
+
+.ratingbox3 {
+  text-align: center;
+  height: 35px;
+  width: 450px;
+  margin-left: 100px;
+  position: relative;
+  background-color: hsl(300, 24%, 96%);
+  padding: 10px;
+  border-radius: 7px;
+}
+
+.stars1 {
+  width: 150px;
+  display: inline-block;
+  position: absolute;
+  margin-top: 8px;
+  text-align: center;
+}
+
+.field1 {
+  width: 250px;
+  position: absolute;
+  margin-top: 8px;
+  left: 35%;
+  text-align: left;
+  color: hsl(300, 43%, 22%);
+}
+
+.stars2 {
+  width: 150px;
+  position: absolute;
+  margin-top: 8px;
+  text-align: center;
+}
+
+.field2 {
+  width: 250px;
+  position: absolute;
+  margin-top: 8px;
+  left: 35%;
+  text-align: left;
+  color: hsl(300, 43%, 22%);
+}
+
+.stars3 {
+  width: 150px;
+  position: absolute;
+  margin-top: 8px;
+  text-align: center;
+}
+
+.field3 {
+  width: 250px;
+  position: absolute;
+  margin-top: 8px;
+  left: 35%;
+  text-align: left;
+  color: hsl(300, 43%, 22%);
+}
+
+.bg {
+  position: absolute;
+  width: 700px;
+  left: -100px;
+}
+
+.bg2 {
+  position: absolute;
+  top: 45px;
+  left: 300px;
+}
+
+/***************Bottom Section Styling***************/
+.bottom-section {
+  position: relative;
+  height: 340px;
+}
+
+.buyer-1 {
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 7px;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  left: 100px;
+  padding: 30px;
+}
+
+.buyer-2 {
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 7px;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  left: 510px;
+  top: 25px;
+  padding: 30px;
+}
+
+.buyer-3 {
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 7px;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  left: 920px;
+  top: 50px;
+  padding: 30px;
+}
+
+.profileimg {
+  border-radius: 50px;
+  width: 60px;
+}
+
+.name {
+  padding-left: 20px;
+}
+
+.comment1 {
+  margin-top: 25px;
+  font-size: 15px;
+  color: hsl(300, 24%, 96%);
+}
+
+.comment2 {
+  margin-top: 25px;
+  font-size: 15px;
+  color: hsl(300, 24%, 96%);
+}
+
+.comment3 {
+  margin-top: 25px;
+  font-size: 15px;
+  color: hsl(300, 24%, 96%);
+}
+
+.proff {
+  margin-top: 0;
+  color: hsl(333, 80%, 67%);
+  font-size: 14px;
+}
+
+.id {
+  color: hsl(300, 24%, 96%);
+}
+
+/***************Footer Section Styling***************/
+.footer-section {
+  position: relative;
+  width: 400px;
+  margin-left: 490px;
+}
